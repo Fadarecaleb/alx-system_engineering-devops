@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod --refrence=olleh.txt hello.txt
+chmod 354 hello
